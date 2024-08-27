@@ -7,7 +7,7 @@
     "babel-preset-stage-3": "^6.24.1",
     "prop-types": "^15.5.10",
     "react": "^15.5.4",
-    "webpack": "^2.5.1"
+    "webpack": "^5.94.0"
   },
   "peerDependencies": {
     "react": "^15.5.4"
